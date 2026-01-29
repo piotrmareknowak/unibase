@@ -1,0 +1,8 @@
+country=Poland
+city=Poznań
+uni_abbreviation=UAM
+uni_name=Uniwersytet im. Adama Mickiewicza w Poznaniu
+requirements=English, Polish
+study_field=Filologia Angielska 
+link= https://amu.edu.pl
+study_language=Polish

@@ -1,0 +1,6 @@
+country=Netherlands
+city=Amsterdam
+uni_abbreviation=UvA
+uni_name=University of Amsterdam
+requirements=IELTS 6.5
+study_field=Business Administration

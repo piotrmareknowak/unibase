@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Database</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    </head>
+    <body>
+
+        <div class="navbar">
+        <a href="index.html">HOME</a>
+        <a href="database.html">DATABASE</a>
+        </div>
+        
+        <section id="database_home"></section>
+        <h1>University Database</h1>
+
+        <div class="split">
+            <div class="left">
+                You may utilize the search bar to quickly find what you are looking for. You may type in the name of your university, the abbreviation for it, country, city, the field or a requirement. While using the search bar make sure not to make any spelling mistakes.
+            </div>
+
+            <div class="right">
+                <label for="search">Search:</label>
+                <input type="text" id="search" placeholder="Search universities...">
+            </div>
+        </div>
+
+        
+
+        <div id="database"></div>
+
+        <div id="modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>  <!-- optional close button -->
+                <img id="modal-image" src="" alt="">
+                <h2 id="modal-title"></h2>
+                <p id="modal-country"></p>
+                <p id="modal-city"></p>
+                <p id="modal-field"></p>
+                <p id="modal-requirements"></p>
+                <button id="modal-link">Visit University</button>
+            </div>
+        </div>
+
+        <script src="js/script.js"></script>
+
+    </body>
+</html>

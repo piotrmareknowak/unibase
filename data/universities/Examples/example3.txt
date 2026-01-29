@@ -1,0 +1,6 @@
+country=France
+city=Paris
+uni_abbreviation=Sorbonne
+uni_name=Sorbonne University
+requirements=IELTS 6.5
+study_field=Computer Science

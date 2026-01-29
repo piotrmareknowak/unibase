@@ -1,0 +1,8 @@
+country=Nederlands
+city=Amsterdam
+uni_abbreviation=UVA
+uni_name=University of Amsterdam
+requirements=
+study_field=English Language and Culture
+link=https://www.uva.nl/en
+study_language=English

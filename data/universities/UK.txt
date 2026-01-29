@@ -1,0 +1,8 @@
+country=Poland
+city=Kraków
+uni_abbreviation=UJ
+uni_name=Uniwersytet Jagieloński w Krakowie
+requirements=English, Polish, Other Language
+study_field=Filologia Angielska 
+link=https://irk.uj.edu.pl/pl/
+study_language=Polish

@@ -1,0 +1,6 @@
+country=Canada
+city=Toronto
+uni_abbreviation=UofT
+uni_name=University of Toronto
+requirements=IELTS 6.5
+study_field=Engineering

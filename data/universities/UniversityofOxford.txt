@@ -1,0 +1,8 @@
+country=UK
+city=London
+uni_abbreviation=UO
+uni_name=University of Oxford
+requirements=38 (including core points) with 666 at HL, English HL
+study_field=English Language and Literature
+link=https://www.ox.ac.uk
+study_language=English

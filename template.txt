@@ -1,0 +1,8 @@
+country=
+city=
+uni_abbreviation=
+uni_name=
+requirements=
+study_field=
+link=
+study_language=

@@ -1,0 +1,8 @@
+country=Poland
+city=Warsaw
+uni_abbreviation=UW
+uni_name=Uniwersytet Warszawski
+requirements=English (HL), Maths (SL or HL), Polish (SL or HL)
+study_field=Filologia Angielska 
+link=https://irk.uw.edu.pl/pl/
+study_language=English

@@ -1,0 +1,6 @@
+country=Germany
+city=Berlin
+uni_abbreviation=TU Berlin
+uni_name=Technische Universität Berlin
+requirements=IELTS 6.5
+study_field=Computer Science

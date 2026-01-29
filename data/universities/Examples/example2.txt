@@ -1,0 +1,6 @@
+country=Poland
+city=Poznań
+uni_abbreviation=UMP
+uni_name=Medical University of Poznań im. Karola Marcinkowskiego
+requirements=Biology + Chemistry/Physics HL
+study_field=Medical
