@@ -1,0 +1,8 @@
+country=France
+city=Paris
+uni_abbreviation=SP
+uni_name=Sciences Po
+requirements=IB 30–36 points; IELTS 7.0 or DELF B2/C1
+study_field=Journalism / Communication
+link=https://www.sciencespo.fr
+study_language=French / English
