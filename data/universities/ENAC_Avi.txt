@@ -1,0 +1,8 @@
+country=France
+city=Toulouse
+uni_abbreviation=ENAC
+uni_name=École Nationale de l'Aviation Civile
+requirements=IB 32 points; HL Math, Physics
+study_field=aviation
+link=https://www.enac.fr
+study_language=French/English
