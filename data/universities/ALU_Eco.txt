@@ -1,0 +1,8 @@
+country=Germany
+city=Freiburg im Breisgau
+uni_abbreviation=ALU
+uni_name=Albert-Ludwigs-Universität Freiburg
+requirements=IB diploma; overall score equivalent to German Abitur; HL Biology or HL another science; German C1 certificate (e.g. TestDaF 4x4 or DSH‑2)​
+study_field=ecology (Biologie BSc with ecology/evolution modules)
+link=https://uni-freiburg.de/en/studies/degree-programme/302/
+study_language=German
