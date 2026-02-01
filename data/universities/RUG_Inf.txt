@@ -1,0 +1,8 @@
+country=Netherlands
+city=Groningen
+uni_abbreviation=RUG
+uni_name=University of Groningen
+requirements=Math(HL), VWO diploma, IELTS or TOEFL
+study_field=Computing Science
+link= https://www.rug.nl/bachelors/computing-science/
+study_language=English
