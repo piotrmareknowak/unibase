@@ -1,0 +1,8 @@
+country=United Kingdom
+city=Manchester
+uni_abbreviation=UMANC
+uni_name=University of Manchester
+requirements=A-levels A*AA, International Baccalaureate 37 points overall with 7,6,6 at Higher Level, GCSE/IGCSE English Language grade 4/C, GCSE/IGCSE Mathematics grade 4/C, IELTS 7.0 overall with minimum 6.5 in each component (if English not first language)
+study_field=Law (LLB)
+link=https://www.manchester.ac.uk/study/undergraduate/courses/2026/12446/llb-law/
+study_language=English
