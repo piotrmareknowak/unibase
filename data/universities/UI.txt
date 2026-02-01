@@ -1,0 +1,8 @@
+country=USA
+city=Iowa City
+uni_abbreviation=UIowa
+uni_name=University of Iowa
+requirements=minimum 30 points, English proficiency test
+study_field=Physiotherapy
+link=https://uiowa.edu
+study_language=English
