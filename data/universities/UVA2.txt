@@ -1,0 +1,8 @@
+country=Netherlands
+city=Amsterdam
+uni_abbreviation=UvA
+uni_name=University of Amsterdam
+requirements=IB 28–34 points; IELTS 6.5; motivation letter
+study_field=Media and Culture / Communication Science
+link=https://www.uva.nl
+study_language=English
