@@ -1,0 +1,8 @@
+country=Denmark
+city=Copenhagen
+uni_abbreviation=UCPH
+uni_name=University of Copenhagen
+requirements=Total Points: 36 - 40, HL Subjects: Math HL, Physics HL/SL, Language Proficiency: Danish (C1)
+study_field=Physics
+link=https://www.ku.dk
+study_language=Danish
