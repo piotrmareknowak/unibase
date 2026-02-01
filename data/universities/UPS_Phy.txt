@@ -1,0 +1,8 @@
+country=France
+city=Gif-sur-Yvette
+uni_abbreviation=UPS
+uni_name=UniversitÃ© Paris-Saclay
+requirements=Total Points: 38 - 42, HL Subjects: Math HL and Physics HL strongly recommended, Language Proficiency: French (B2/C1)
+study_field=Physics
+link=https://www.universite-paris-saclay.fr
+study_language=French
