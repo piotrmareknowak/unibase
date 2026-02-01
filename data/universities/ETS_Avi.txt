@@ -1,0 +1,8 @@
+country=Canada
+city=Ville de Québec
+uni_abbreviation=ÉTS
+uni_name=École de Technologie Supérieure
+requirements=IB 30+ points; HL Math, Physics
+study_field=aviation
+link=https://www.etsmtl.ca
+study_language=French/English
