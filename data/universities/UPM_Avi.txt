@@ -1,0 +1,8 @@
+country=Spain
+city=Madrid
+uni_abbreviation=UPM
+uni_name=Universidad Politécnica de Madrid
+requirements=IB 30 points; HL Math, Physics
+study_field=aviation
+link=https://www.upm.es
+study_language=Spanish/English
