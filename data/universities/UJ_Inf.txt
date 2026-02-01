@@ -1,0 +1,8 @@
+country=Poland
+city=Kraków 
+uni_abbreviation=UJ
+uni_name=Uniwersytet Jagielloński 
+requirements=Computer Science HL
+study_field=Informatyka
+link=https://studia.uj.edu.pl/kierunki/wmii/informatyka
+study_language=Polish
