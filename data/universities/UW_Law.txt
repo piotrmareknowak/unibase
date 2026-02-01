@@ -1,0 +1,8 @@
+country=Poland
+city=Warsaw
+uni_abbreviation=UW
+uni_name=University of Warsaw
+requirements=Polish Matura with strong overall results (typically ~80%+), English proficiency if programme taught in English (IELTS ~6.5 or equivalent)
+study_field=Law (LLB / equivalent)
+link=https://en.uw.edu.pl/
+study_language=Polish / English (depends on programme)
