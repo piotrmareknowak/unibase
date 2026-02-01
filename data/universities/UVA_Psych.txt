@@ -1,0 +1,8 @@
+country=Netherlands
+city=Amsterdam
+uni_abbreviation=UvA
+uni_name=University of Amsterdam
+requirements=International Baccalaureate Diploma; minimum 30–32 IB points; Math AA/AI required; numerus clausus selection (tests + motivation)
+study_field=Psychology
+link=https://www.uva.nl
+study_language=English
