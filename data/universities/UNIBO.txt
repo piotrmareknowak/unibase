@@ -1,0 +1,8 @@
+country=Italy
+city=Bologna
+uni_abbreviation=UNIBO
+uni_name=University of Bologna
+requirements=IB Diploma; Italian B2 or IELTS 6.0–6.5
+study_field=Communication Studies
+link=https://www.unibo.it
+study_language=Italian / English
