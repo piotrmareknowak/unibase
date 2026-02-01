@@ -1,0 +1,8 @@
+country=Switzerland
+city=Zurich
+uni_abbreviation=UZH
+uni_name=University of Zurich
+requirements=IB Diploma; IELTS 6.5–7.0
+study_field=Communication and Media Research
+link=https://www.uzh.ch
+study_language=German / English
