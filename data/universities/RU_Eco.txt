@@ -1,0 +1,8 @@
+country=Netherlands
+city=Nijmegen
+uni_abbreviation=RU
+uni_name=Radboud University
+requirements=IB diploma; HL Biology; HL Mathematics (AA or AI); Chemistry at HL or SL with strong grade​
+study_field=ecology (Biology BSc – Ecology and Environment track)
+link=https://www.ru.nl/en/education/bachelors/biology
+study_language=English
