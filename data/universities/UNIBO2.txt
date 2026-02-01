@@ -1,0 +1,8 @@
+country=Italy
+city=Bologna
+uni_abbreviation=UNIBO
+uni_name=University of Bologna
+requirements=Biology HL, entrance exam, English proficiency
+study_field=Veterinary Medicine
+link=https://www.unibo.it
+study_language=English
