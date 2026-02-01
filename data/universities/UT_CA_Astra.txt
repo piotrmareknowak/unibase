@@ -1,0 +1,8 @@
+country=Canada
+city=Toronto
+uni_abbreviation=UofT
+uni_name=University of Toronto
+requirements=IB 33–38 points; HL Mathematics, Physics
+study_field=astronomy
+link=https://www.utoronto.ca
+study_language=English
