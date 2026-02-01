@@ -1,0 +1,8 @@
+country=Canada
+city=Toronto
+uni_abbreviation=UofT
+uni_name=University of Toronto
+requirements=IB 30+ points; IELTS 6.5; English HL recommended
+study_field=Media Studies / Journalism
+link=https://www.utoronto.ca
+study_language=English
