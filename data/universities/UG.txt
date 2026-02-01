@@ -1,0 +1,8 @@
+country=Belgium
+city=Ghent
+uni_abbreviation=UGent
+uni_name=Ghent University
+requirements=Biology HL, English proficiency test
+study_field=Veterinary Medicine
+link=https://www.ugent.be
+study_language=English
