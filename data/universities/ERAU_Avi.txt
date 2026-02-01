@@ -1,0 +1,8 @@
+country=USA
+city=Daytona Beach, FL
+uni_abbreviation=ERAU
+uni_name=Embry-Riddle Aeronautical University
+requirements=IB 27+ points; HL Math, Physics (or equivalent SAT/ACT)
+study_field=aviation
+link=https://erau.edu
+study_language=English
