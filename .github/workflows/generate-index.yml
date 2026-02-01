@@ -3,7 +3,7 @@ name: Generate index.json
 on:
   push:
     paths:
-      - "data/*.txt"
+      - "data/universities/*.txt"
 
 jobs:
   build:
