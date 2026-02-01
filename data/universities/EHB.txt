@@ -1,0 +1,8 @@
+country=Belgium
+city=Brussels
+uni_abbreviation=EhB
+uni_name=Erasmus University College Brussels
+requirements=English proficiency test
+study_field=Physiotherapy
+link=https://www.erasmushogeschool.be
+study_language=English
