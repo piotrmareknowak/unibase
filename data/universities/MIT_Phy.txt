@@ -1,0 +1,8 @@
+country=USA
+city=Cambridge, Massachusetts
+uni_abbreviation=MIT
+uni_name=Massachusetts Institute of Technology
+requirements=Total Points: 43+ (Competitive), HL Subjects: Math HL (7), Physics HL (7) recommended for credit, Language Proficiency: English (C1/C2 - TOEFL 100+ / IELTS 7.5)
+study_field=Physics
+link=https://www.mit.edu
+study_language=English
