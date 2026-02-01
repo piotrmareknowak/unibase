@@ -1,0 +1,8 @@
+country=Spain
+city=Barcelona
+uni_abbreviation=UAB
+uni_name=Universitat Autònoma de Barcelona
+requirements=IB diploma; HL Biology; HL Chemistry; minimum score as required for EBAU equivalence​
+study_field=ecology (Ciències Ambientals / Environmental Science – ecology focus)
+link=https://www.uab.cat/web/studies/bachelors/environmental-science-1345467893054.html
+study_language=Catalan/Spanish
