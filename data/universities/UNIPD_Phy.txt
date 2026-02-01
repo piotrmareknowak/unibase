@@ -1,0 +1,8 @@
+country=Italy
+city=Padua
+uni_abbreviation=UNIPD
+uni_name=University of Padua
+requirements=Total Points: 28 - 32 (Minimum 24), HL Subjects: Math and Physics recommended (TOLC-S or CEnT-S test required), Language Proficiency: Italian (B2) or English (B2 for English tracks)
+study_field=Physics
+link=https://www.unipd.it
+study_language=Italian/English
