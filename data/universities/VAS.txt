@@ -1,0 +1,8 @@
+country=France
+city=Lyon
+uni_abbreviation=VetAgro Sup
+uni_name=VetAgro Sup
+requirements=Biology HL, entrance exam, English proficiency
+study_field=Veterinary Medicine
+link=https://www.vetagro-sup.fr
+study_language=English
