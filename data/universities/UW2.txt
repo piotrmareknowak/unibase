@@ -1,0 +1,8 @@
+country=Poland
+city=Warsaw
+uni_abbreviation=UW
+uni_name=University of Warsaw
+requirements=IB Diploma; humanities subjects preferred; no language test for Polish-taught programs
+study_field=Journalism and Media Studies
+link=https://www.uw.edu.pl
+study_language=Polish / English
