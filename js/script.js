@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Load all files listed in index.json
-    fetch("data/index.json")
+    fetch("data/index.json?cache=" + Date.now())
         .then(res => res.json())
         .then(files => {
             const fetchPromises = files.map(file =>
@@ -120,3 +120,4 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 });
+
