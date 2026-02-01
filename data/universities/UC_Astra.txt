@@ -1,0 +1,8 @@
+country=UK
+city=Cambridge
+uni_abbreviation=Cambridge
+uni_name=University of Cambridge
+requirements=IB 40–42 points; HL Mathematics, Physics
+study_field=astronomy
+link=https://www.cam.ac.uk
+study_language=English
