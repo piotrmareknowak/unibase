@@ -1,0 +1,8 @@
+country=Canada
+city=Montreal
+uni_abbreviation=McGill
+uni_name=McGill University
+requirements=International Baccalaureate Diploma; typical offer 36–39 IB points; no entrance exams; strong HL results expected
+study_field=Psychology
+link=https://www.mcgill.ca
+study_language=English
