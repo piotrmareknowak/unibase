@@ -1,0 +1,8 @@
+country=UK
+city=York
+uni_abbreviation=UY
+uni_name=University of York
+requirements=IB 35 points; HL Biology 6; HL second science or Mathematics 6​
+study_field=ecology (Ecology and Conservation Biology BSc)
+link=https://www.york.ac.uk/study/undergraduate/courses/bsc-ecology-conservation-biology/
+study_language=English
