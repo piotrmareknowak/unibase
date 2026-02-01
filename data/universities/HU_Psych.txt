@@ -1,0 +1,8 @@
+country=United States
+city=Cambridge, MA
+uni_abbreviation=Harvard
+uni_name=Harvard University
+requirements=International Baccalaureate Diploma; admitted students usually 40–45 IB points; no required entrance exams; SAT/ACT optional; essays + recommendations mandatory
+study_field=Psychology
+link=https://www.harvard.edu
+study_language=English
