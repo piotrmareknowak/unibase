@@ -1,0 +1,8 @@
+country=Germany
+city=Heidelberg
+uni_abbreviation=HS-Heidelberg
+uni_name=Heidelberg University of Applied Sciences
+requirements=English proficiency test
+study_field=Physiotherapy
+link=https://www.hs-heidelberg.de
+study_language=English
