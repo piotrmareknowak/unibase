@@ -1,0 +1,8 @@
+country=France
+city=Paris
+uni_abbreviation=UP
+uni_name=Université de Paris
+requirements=Minimum 32 points, English proficiency test
+study_field=Physiotherapy
+link=https://u-paris.fr
+study_language=English
