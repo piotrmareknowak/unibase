@@ -1,0 +1,8 @@
+country=UK
+city=Cranfield
+uni_abbreviation=Cranfield
+uni_name=Cranfield University
+requirements=IB 32–38 points; HL Math, Physics
+study_field=aviation
+link=https://www.cranfield.ac.uk
+study_language=English
