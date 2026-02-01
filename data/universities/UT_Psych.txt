@@ -1,0 +1,8 @@
+country=Canada
+city=Toronto
+uni_abbreviation=UofT
+uni_name=University of Toronto
+requirements=International Baccalaureate Diploma; typical admission 34–38 IB points; no entrance exams; Math required; English proficiency waived if IB in English
+study_field=Psychology
+link=https://www.utoronto.ca
+study_language=English
