@@ -1,0 +1,8 @@
+country=Poland
+city=Poznań 
+uni_abbreviation=PP
+uni_name=Politechnika Poznańska
+requirements=IB 30–36 points;HL Mathematics,Physics 
+study_field=aviation
+link=https://put.poznan.pl/kierunek/lotnictwo-0
+study_language= Polish/ English
