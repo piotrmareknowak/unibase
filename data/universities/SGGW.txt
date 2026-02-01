@@ -1,0 +1,8 @@
+country=Poland
+city=Warsaw
+uni_abbreviation=SGGW
+uni_name=Szkoła Główna Gospodarstwa Wiejskiego w Warszawie 
+requirements=Biology HL, minimum 32 points
+study_field=Veterinary Medicine
+link=https://www.sggw.edu.pl
+study_language=Polish
