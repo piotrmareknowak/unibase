@@ -1,0 +1,8 @@
+country=Italy
+city=Padua
+uni_abbreviation=UNIPD
+uni_name=University of Padua
+requirements=International Baccalaureate Diploma; minimum 24 IB points; mandatory entrance exam (TOLC-PSI or equivalent)
+study_field=Psychological Science
+link=https://www.unipd.it
+study_language=English / Italian
