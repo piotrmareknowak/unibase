@@ -1,0 +1,8 @@
+country=Germany
+city=Hannover
+uni_abbreviation=TiHo
+uni_name=University of Veterinary Medicine Hannover
+requirements=Biology HL and Chemistry HL, English proficiency test
+study_field=Veterinary Medicine
+link=https://www.tiho-hannover.de
+study_language=English
