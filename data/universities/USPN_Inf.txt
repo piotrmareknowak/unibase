@@ -1,0 +1,8 @@
+country=France
+city=Paris 
+uni_abbreviation=USPN
+uni_name=Sorbonne University 
+requirements=English, Math, Computer Science HL
+study_field=Computer Science: Digital International Program
+link=https://www.sciences.sorbonne-universite.fr 
+study_language=English/French
