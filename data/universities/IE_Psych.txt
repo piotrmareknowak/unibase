@@ -1,0 +1,8 @@
+country=Spain
+city=Madrid
+uni_abbreviation=IE
+uni_name=IE University
+requirements=International Baccalaureate Diploma; minimum 30 IB points; no national entrance exam; internal admission process including motivation interview, aptitude assessment, and academic record
+study_field=Psychology
+link=https://www.ie.edu/university/studies/bachelor-psychology/
+study_language=English
