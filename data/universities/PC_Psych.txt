@@ -1,0 +1,8 @@
+country=France
+city=Paris
+uni_abbreviation=Paris Cité
+uni_name=Université Paris Cité
+requirements=International Baccalaureate Diploma; usually 32–36 IB points; no entrance exams; French B2–C1 required
+study_field=Psychology
+link=https://u-paris.fr
+study_language=French
