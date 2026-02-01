@@ -1,0 +1,8 @@
+country=USA
+city=New York
+uni_abbreviation=NYU
+uni_name=New York University
+requirements=IB Diploma; essays; IELTS 7.0 or TOEFL ~100; SAT optional
+study_field=Journalism
+link=https://www.nyu.edu
+study_language=English
