@@ -1,0 +1,8 @@
+﻿country=Poland
+city=Wrocław
+uni_abbreviation=UWr
+uni_name=Uniwersytet Wrocławski
+requirements=IB min 24 points with Polish A/ literature; IELTS 6.5+ 
+study_field=Polish Philology 
+link=https://uwr.edu.pl/
+study_language=Polish

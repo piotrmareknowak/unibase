@@ -1,0 +1,8 @@
+﻿country=Poland
+city=Poznan
+uni_abbreviation=UAM
+uni_name=Uniwersytet im. Adama Mickiewicza 
+requirements=IB min 24 points; IELTS 6.5+
+study_field=Polish Philology
+link=https://amu.edu.pl/
+study_language=Polish

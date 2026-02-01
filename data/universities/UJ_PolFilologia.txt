@@ -1,0 +1,8 @@
+﻿country=Poland
+city=Kraków
+uni_abbreviation=UJ
+uni_name=Uniwersytet on Jagielloński
+requirements=IB min 24 points with Polish A/ literature; IELTS 6.5+ 
+study_field=Polish Philology 
+link=https://www.uj.edu.pl/
+study_language=Polish
