@@ -1,0 +1,8 @@
+country=Spain
+city=Barcelona
+uni_abbreviation=UB
+uni_name=University of Barcelona
+requirements=Bachillerato plus EBAU/Selectividad with competitive score, or equivalent international diploma, English proficiency for English-taught tracks
+study_field=Law (Grado en Derecho)
+link=https://www.ub.edu/web/ub/en/
+study_language=Spanish / Catalan / English (depends on programme)
