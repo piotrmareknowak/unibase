@@ -1,0 +1,8 @@
+country=Italy
+city=Rome
+uni_abbreviation=UniRoma3
+uni_name=Università Roma Tre
+requirements=IB 28–34 points; HL Math, Physics
+study_field=aviation
+link=https://www.uniroma3.it
+study_language=Italian/English
