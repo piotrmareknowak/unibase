@@ -1,0 +1,8 @@
+country=Denmark
+city=Copenhagen
+uni_abbreviation=KU
+uni_name=University of Copenhagen
+requirements=International Baccalaureate Diploma; approx. 34–37 IB points; limited places; no entrance exams
+study_field=Psychology
+link=https://www.ku.dk
+study_language=English / Danish
