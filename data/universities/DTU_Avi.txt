@@ -1,0 +1,8 @@
+country=Denmark
+city=Copenhagen
+uni_abbreviation=DTU
+uni_name=Technical University of Denmark
+requirements=IB 30–36 points; HL Math, Physics
+study_field=aviation
+link=https://www.dtu.dk
+study_language=English
