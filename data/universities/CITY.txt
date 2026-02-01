@@ -1,0 +1,8 @@
+country=United Kingdom
+city=London
+uni_abbreviation=CITY
+uni_name=City, University of London
+requirements=IB 31 points; IELTS 7.0; English A and humanities preferred
+study_field=Journalism
+link=https://www.city.ac.uk
+study_language=English
