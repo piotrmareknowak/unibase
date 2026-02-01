@@ -1,0 +1,8 @@
+country=Italy
+city=Padua
+uni_abbreviation=UniPD
+uni_name=University of Padua
+requirements=IB 30–36 points; HL Mathematics, Physics
+study_field=astronomy
+link=https://apply.unipd.it/courses/course/135-astronomia​
+study_language=Italian/English
