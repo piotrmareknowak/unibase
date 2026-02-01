@@ -1,0 +1,8 @@
+country=Italy
+city=Milan
+uni_abbreviation=UniMi
+uni_name=University of Milan
+requirements=English proficiency test, entrance exam
+study_field=Physiotherapy
+link=https://www.unimi.it
+study_language=English
