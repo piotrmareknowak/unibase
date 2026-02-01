@@ -1,0 +1,8 @@
+country=Spain
+city=Madrid
+uni_abbreviation=UAM
+uni_name=Universidad AutÃ³noma de Madrid
+requirements=Total Points: 24 - 34, HL Subjects: Math and Physics recommended for accreditation points, Language Proficiency: Spanish (B2)
+study_field=Physics
+link=https://www.uam.es
+study_language=Spanish
