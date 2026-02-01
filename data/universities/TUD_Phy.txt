@@ -1,0 +1,8 @@
+country=Netherlands
+city=Delft
+uni_abbreviation=TUDelft
+uni_name=Delft University of Technology
+requirements=Total Points: 30+, HL Subjects: Math AA HL, Physics HL, Language Proficiency: Dutch (B2)
+study_field=Applied Physics
+link=https://www.tudelft.nl
+study_language=Dutch
