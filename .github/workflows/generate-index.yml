@@ -1,0 +1,30 @@
+name: Generate index.json
+
+on:
+  push:
+    paths:
+      - "data/*.txt"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Generate index.json
+        run: node generateIndex.js
+
+      - name: Commit index.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/index.json
+          git commit -m "Auto-generate index.json" || echo "No changes"
+          git push
