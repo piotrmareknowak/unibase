@@ -1,0 +1,8 @@
+country=France
+city=Paris
+uni_abbreviation=PSL
+uni_name=Université PSL
+requirements=International Baccalaureate Diploma; typically 36–40 IB points; no written exam, but strong academic selection; French C1 required
+study_field=Psychology
+link=https://psl.eu
+study_language=French
