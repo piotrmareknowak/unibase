@@ -1,0 +1,8 @@
+country=Poland
+city=Warsaw / Poznań / Wrocław / Kraków
+uni_abbreviation=SWPS
+uni_name=SWPS University
+requirements=International Baccalaureate Diploma; minimum ~30–32 IB points; no entrance exams; admission based on IB score ranking
+study_field=Psychology
+link=https://swps.pl
+study_language=Polish
