@@ -1,0 +1,8 @@
+country=Italy
+city=Milan
+uni_abbreviation=UniMi
+uni_name=University of Milan
+requirements=International Baccalaureate Diploma; minimum 24 IB points; mandatory psychology entrance test; ranking-based admission
+study_field=Psychology
+link=https://www.unimi.it
+study_language=Italian / English
