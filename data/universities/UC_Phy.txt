@@ -1,0 +1,8 @@
+country=UK
+city=Cambridge
+uni_abbreviation=CAM
+uni_name=University of Cambridge
+requirements=Total Points: 40-42, HL Subjects: 7, 7, 6 in HL including Physics and Math AA, Language Proficiency: English (C2 - IELTS 7.5 / CAE Grade A)
+study_field=Physics
+link=https://www.cam.ac.uk
+study_language=English
