@@ -1,0 +1,8 @@
+country=USA
+city=Davis
+uni_abbreviation=UC Davis
+uni_name=University of California, Davis
+requirements=Biology HL and Chemistry HL, English proficiency test, interview
+study_field=Veterinary Medicine
+link=https://www.ucdavis.edu
+study_language=English
