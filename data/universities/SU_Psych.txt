@@ -1,0 +1,8 @@
+country=United States
+city=Stanford, CA
+uni_abbreviation=Stanford
+uni_name=Stanford University
+requirements=International Baccalaureate Diploma; typical admitted range 38–45 IB points; no entrance exams; SAT/ACT optional; essays + recommendations required
+study_field=Psychology
+link=https://www.stanford.edu
+study_language=English
