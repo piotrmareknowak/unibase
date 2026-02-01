@@ -1,0 +1,8 @@
+country=Denmark
+city=Roskilde
+uni_abbreviation=RUC
+uni_name=Roskilde University
+requirements=IB diploma; HL Mathematics or HL Physics; SL English B at least 5 (or equivalent to Danish level B); science subjects required for Environmental Biology​
+study_field=ecology (Environmental Biology / Environmental Science profile)
+link=https://ruc.dk/en/bachelor-environmental-biology
+study_language=Danish/English
