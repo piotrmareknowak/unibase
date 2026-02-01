@@ -1,0 +1,8 @@
+country=USA
+city=New York City
+uni_abbreviation=NYU
+uni_name=New York University
+requirements=Math HL, Physics HL, Computer Science HL, IELTS or TOEFL
+study_field=Computer Science M.S
+link= https://engineering.nyu.edu/academics/programs/computer-science-ms
+study_language=English 
