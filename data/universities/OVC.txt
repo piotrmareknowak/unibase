@@ -1,0 +1,8 @@
+country=Canada
+city=Guelph
+uni_abbreviation=OVC
+uni_name=Ontario Veterinary College – University of Guelph
+requirements=Biology HL and Chemistry HL, English proficiency test
+study_field=Veterinary Medicine
+link=https://www.uoguelph.ca
+study_language=English
