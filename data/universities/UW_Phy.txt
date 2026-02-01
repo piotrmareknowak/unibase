@@ -1,0 +1,8 @@
+country=Poland
+city=Warsaw
+uni_abbreviation=UW
+uni_name=University of Warsaw
+requirements=Total Points: 34 - 38, HL Subjects: Math HL, Physics HL preferred, Language Proficiency: Polish (B2) or English (B2 for English tracks)
+study_field=Physics
+link=https://www.uw.edu.pl
+study_language=Polish/English
