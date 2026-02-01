@@ -1,0 +1,8 @@
+country=France
+city=Montpellier
+uni_abbreviation=UM
+uni_name=Université de Montpellier
+requirements=IB diploma; HL Biology; HL second science; score equivalent to French science baccalauréat for Parcoursup​
+study_field=ecology (Licence Sciences de la vie – parcours Écologie)
+link=https://sciences.edu.umontpellier.fr/licence-sciences-de-la-vie-parcours-ecologie/
+study_language=French
