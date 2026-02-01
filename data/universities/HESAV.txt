@@ -1,0 +1,8 @@
+country=Switzerland
+city=Lausanne
+uni_abbreviation=HESAV
+uni_name=HESAV – University of Applied Sciences Western Switzerland
+requirements=English proficiency test
+study_field=Physiotherapy
+link=https://www.hesav.ch
+study_language=English
