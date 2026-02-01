@@ -1,0 +1,8 @@
+country=Spain
+city=Madrid
+uni_abbreviation=UAX
+uni_name=Universidad Alfonso X el Sabio
+requirements=International Baccalaureate Diploma; minimum ~28–30 IB points; no state entrance exam; internal assessment and interview
+study_field=Psychology
+link=https://www.uax.com/en/studies/bachelor-psychology
+study_language=English
