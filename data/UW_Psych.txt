@@ -1,0 +1,8 @@
+country=Poland
+city=Warsaw
+uni_abbreviation=UW
+uni_name=University of Warsaw
+requirements=International Baccalaureate Diploma; typically 36–40 IB points due to high competition; no entrance exams; ranking-based admission
+study_field=Psychology
+link=https://www.uw.edu.pl
+study_language=Polish
