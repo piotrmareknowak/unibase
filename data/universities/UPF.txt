@@ -1,0 +1,8 @@
+country=Spain
+city=Barcelona
+uni_abbreviation=UPF
+uni_name Universitat Pompeu Fabra
+requirements=IB Diploma; DELE B2 (Spanish) or IELTS 6.5
+study_field=Journalism / Communication
+link=https://www.upf.edu
+study_language=Spanish / English
