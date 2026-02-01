@@ -1,0 +1,8 @@
+country=France
+city=Paris
+uni_abbreviation=Sorbonne
+uni_name=Sorbonne University
+requirements=IB 32–38 points; HL Mathematics, Physics
+study_field=astronomy
+link=https://www.sorbonne-universite.fr/en
+study_language=French/English
