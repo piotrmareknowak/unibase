@@ -1,0 +1,8 @@
+country=Poland
+city=Poznań
+uni_abbreviation=UAM
+uni_name=Uniwersytet im. Adama Mickiewicza w Poznaniu
+requirements=IB diploma; HL Biology; HL second science; results converted to Polish matura scale (e.g. HL 7 = 100%)
+study_field=ecology (Ekologia i ochrona środowiska – licencjat)
+link=https://rekrutacja.amu.edu.pl/kierunki-studiow/ekologia-i-ochrona-srodowiska
+study_language=Polish
