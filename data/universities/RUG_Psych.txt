@@ -1,0 +1,8 @@
+country=Netherlands
+city=Groningen
+uni_abbreviation=RUG
+uni_name=University of Groningen
+requirements=International Baccalaureate Diploma; minimum 30 IB points; Math required; selection procedure (assessment + ranking)
+study_field=Psychology
+link=https://www.rug.nl
+study_language=English
