@@ -1,0 +1,8 @@
+country=Poland
+city=Wrocław
+uni_abbreviation=AWL
+uni_name=Akademia Wojsk Lądowych
+requirements=graduated highschool, English confirmed on a high school diploma
+study_field=Officer School
+link=https://www.wojsko-polskie.pl/awl/so-12/
+study_language=Polish
