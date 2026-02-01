@@ -1,0 +1,8 @@
+country=Germany
+city=Munich
+uni_abbreviation=LMU
+uni_name=Ludwig Maximilian University of Munich
+requirements=International Baccalaureate Diploma; equivalent to Abitur; very high NC (≈39–42 IB points); German C1; no entrance exams
+study_field=Psychology
+link=https://www.lmu.de
+study_language=German
