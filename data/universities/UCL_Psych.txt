@@ -1,0 +1,8 @@
+country=United Kingdom
+city=London
+uni_abbreviation=UCL
+uni_name=University College London
+requirements=International Baccalaureate Diploma; 38–39 points total with 766 at HL; no entrance exam
+study_field=Psychology
+link=https://www.ucl.ac.uk
+study_language=English
