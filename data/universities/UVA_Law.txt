@@ -1,0 +1,8 @@
+country=Netherlands
+city=Amsterdam
+uni_abbreviation=UvA
+uni_name=University of Amsterdam
+requirements=VWO-equivalent secondary diploma (IB/A-levels accepted), competitive grades, English proficiency for English-taught programmes (IELTS ~6.5–7.0)
+study_field=Law (LLB / Global Law)
+link=https://www.uva.nl/en
+study_language=English / Dutch (depends on programme)
