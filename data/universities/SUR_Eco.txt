@@ -1,0 +1,8 @@
+country=Italy
+city=Roma
+uni_abbreviation=Sapienza
+uni_name=Sapienza Università di Roma
+requirements=IB diploma; HL Biology; HL Chemistry; entrance test in scientific area may be required​
+study_field=ecology (Scienze naturali – ecology and conservation curriculum)
+link=https://corsidilaurea.uniroma1.it/en/corso/2024/scienze-naturali
+study_language=Italian
