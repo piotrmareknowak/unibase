@@ -1,0 +1,8 @@
+country=Belgium
+city=Leuven
+uni_abbreviation=KUL
+uni_name=KU Leuven
+requirements=IB Diploma; IELTS 6.5 for English programs; Dutch B2 often required
+study_field=Communication / Media Studies
+link=https://www.kuleuven.be
+study_language=Dutch / English
