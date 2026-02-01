@@ -1,0 +1,8 @@
+country=Canada
+city=Vancouver
+uni_abbreviation=UBC
+uni_name=University of British Columbia
+requirements=IB 32 points; HL Biology; HL second science or Mathematics; strong English and Mathematics​
+study_field=ecology (Biology BSc – Ecology specialization)
+link=https://www.ubc.ca/programs/biology-ecology
+study_language=English
