@@ -1,0 +1,8 @@
+country=Germany
+city=Berlin
+uni_abbreviation=HU
+uni_name=Humboldt University of Berlin
+requirements=International Baccalaureate Diploma; IB subjects recognized by Germany; NC usually 38–42 IB points; German C1
+study_field=Psychology
+link=https://www.hu-berlin.de
+study_language=German
