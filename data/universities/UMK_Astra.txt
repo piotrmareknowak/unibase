@@ -1,0 +1,9 @@
+Poland
+country=Poland
+city=Toruń
+uni_abbreviation=UMK
+uni_name=Nicolaus Copernicus University
+requirements=IB 28–34 points; HL Mathematics, Physics
+study_field=astronomy
+link=https://www.umk.pl/en/
+study_language=Polish/English
