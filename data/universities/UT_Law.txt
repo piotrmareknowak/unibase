@@ -1,0 +1,8 @@
+country=Canada
+city=Toronto
+uni_abbreviation=UofT
+uni_name=University of Toronto
+requirements=High school diploma for bachelor’s degree, competitive GPA, then JD requires completed bachelor’s degree plus LSAT, English proficiency if applicable
+study_field=Pre-Law / Law (JD after bachelor’s)
+link=https://www.law.utoronto.ca/
+study_language=English
