@@ -1,0 +1,8 @@
+country=Spain
+city=Barcelona
+uni_abbreviation=EUC
+uni_name=European University of Catalonia
+requirements=International Baccalaureate Diploma; minimum ~28 IB points; no national entrance exam; admission interview required
+study_field=Psychology
+link=https://euc.academic.es
+study_language=English
