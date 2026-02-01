@@ -1,0 +1,8 @@
+country=Switzerland
+city=Zurich
+uni_abbreviation=UZH
+uni_name=University of Zurich
+requirements=Biology HL and Chemistry HL, English proficiency test
+study_field=Veterinary Medicine
+link=https://www.uzh.ch
+study_language=English
