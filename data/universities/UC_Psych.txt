@@ -1,0 +1,8 @@
+country=United Kingdom
+city=Cambridge
+uni_abbreviation=Cambridge
+uni_name=University of Cambridge
+requirements=International Baccalaureate Diploma; 40–42 points total with 776 at HL; no entrance exam; interview required
+study_field=Psychological and Behavioural Sciences
+link=https://www.cam.ac.uk
+study_language=English
