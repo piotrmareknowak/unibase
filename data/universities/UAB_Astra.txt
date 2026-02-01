@@ -1,0 +1,8 @@
+country=Spain
+city=Barcelona
+uni_abbreviation=UAB
+uni_name=Autonomous University of Barcelona
+requirements=IB 30–36 points; HL Mathematics, Physics
+study_field=astronomy
+link=https://www.uab.cat/en/
+study_language=Spanish/English
