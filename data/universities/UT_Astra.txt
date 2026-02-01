@@ -1,0 +1,8 @@
+country=Germany
+city=Tübingen
+uni_abbreviation=UniTübingen
+uni_name=University of Tübingen
+requirements=IB 32 points; HL Mathematics, Physics (or Abitur equivalent)
+study_field=astronomy
+link=https://uni-tuebingen.de/en/
+study_language=German/English
