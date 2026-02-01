@@ -1,0 +1,8 @@
+country=Netherlands
+city=Delft
+uni_abbreviation=TU Delft
+uni_name=Delft University of Technology
+requirements=IB 32+ points; HL Math, Physics
+study_field=aviation
+link=https://www.tudelft.nl
+study_language=English
