@@ -1,0 +1,8 @@
+country=Poland
+city=Wrocław
+uni_abbreviation=UMW
+uni_name=Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu
+requirements=minimum 28 points
+study_field=Physiotherapy
+link=https://umw.edu.pl
+study_language=Polish
