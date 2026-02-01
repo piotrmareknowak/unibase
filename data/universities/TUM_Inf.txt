@@ -1,0 +1,8 @@
+country=Germany
+city=Munich
+uni_abbreviation=TUM
+uni_name=Technical University of Munich
+requirements=English 
+study_field=Computational Science and Engineering 
+link=https://www.tum.de 
+study_language=English
