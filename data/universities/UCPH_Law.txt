@@ -1,0 +1,8 @@
+country=Denmark
+city=Copenhagen
+uni_abbreviation=UCPH
+uni_name=University of Copenhagen
+requirements=Upper secondary diploma equivalent to Danish Studentereksamen with strong grades, English proficiency for English programmes, Danish required for Danish track
+study_field=Law (LLB equivalent)
+link=https://www.ku.dk/english/
+study_language=Danish / English (depends on programme)
