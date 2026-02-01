@@ -1,0 +1,8 @@
+country=Denmark
+city=Aarhus
+uni_abbreviation=AU
+uni_name=Aarhus University
+requirements=International Baccalaureate Diploma; typically 32–36 IB points; specific HL subject requirements; no entrance exam
+study_field=Psychology
+link=https://www.au.dk
+study_language=English
