@@ -1,0 +1,8 @@
+country=USA
+city=New York
+uni_abbreviation=NYU
+uni_name=New York University
+requirements=High school diploma, admission to bachelor’s degree (any major), competitive GPA, then Juris Doctor (JD) requires completed bachelor’s degree plus LSAT, English proficiency if applicable
+study_field=Pre-Law / Law (JD after bachelor’s)
+link=https://www.law.nyu.edu/
+study_language=English
