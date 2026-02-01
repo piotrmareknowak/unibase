@@ -1,0 +1,8 @@
+country=USA
+city=Pasadena, CA
+uni_abbreviation=Caltech
+uni_name=California Institute of Technology
+requirements=IB 39+ points; HL Mathematics, Physics
+study_field=astronomy
+link=https://www.caltech.edu
+study_language=English
