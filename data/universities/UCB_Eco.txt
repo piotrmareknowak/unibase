@@ -1,0 +1,8 @@
+country=USA
+city=Berkeley
+uni_abbreviation=UCB
+uni_name=University of California, Berkeley
+requirements=IB diploma; HL Biology, HL Mathematics recommended; strong GPA; SAT/ACT optional​
+study_field=ecology (Integrative Biology – Ecology, Evolution & Environment emphasis)
+link=https://ib.berkeley.edu/undergrad/major/ecology-evolution-environment
+study_language=English
