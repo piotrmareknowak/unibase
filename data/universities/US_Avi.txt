@@ -1,0 +1,8 @@
+country=Germany
+city=Stuttgart
+uni_abbreviation=UniStuttgart
+uni_name=University of Stuttgart
+requirements=IB 32 points; HL Math, Physics (or Abitur equivalent)
+study_field=aviation
+link=https://www.uni-stuttgart.de
+study_language=German/English
