@@ -1,0 +1,8 @@
+country=Germany
+city=Berlin
+uni_abbreviation=FU
+uni_name=Freie Universität Berlin
+requirements=IB Diploma, minimum 30 IB points, language: English-taught → IELTS 6.5–7.0; German-taught → German B2/C1; HL recomended: History, Classical Languages; SL: History, Geography
+study_field=Archaeology of the Ancient World (MA track available)
+link=https://www.fu-berlin.de/en/studium/studienangebot/master/Archaeology-of-the-Ancient-World
+study_language=English / German
