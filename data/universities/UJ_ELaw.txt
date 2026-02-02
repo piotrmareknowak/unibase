@@ -4,5 +4,5 @@ uni_abbreviation=UJ
 uni_name=Uniwersytet Jagieloński 
 requirements=38-42IB score HLHistoria,Global politics/Philosophy,English A
 study_field=European Law
-link= https://www.law.uj.edu.pl/~kpe/en/
+link=https://www.law.uj.edu.pl/~kpe/en/
 study_language=Polish/English 
