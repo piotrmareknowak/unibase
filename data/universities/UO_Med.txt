@@ -1,0 +1,8 @@
+country=United Kingdom
+city=Oxford
+uni_abbreviation=Oxford
+uni_name=University of Oxford - Medical Sciences Division
+requirements=IB Diploma with 39 points overall (including core points), Higher Level subjects: 7, 6, 6, Chemistry HL (compulsory), One of Biology/Physics/Mathematics HL, UCAT test required, Must be 18 years old by November 1st of entry year
+study_field=Medicine
+link=https://www.ox.ac.uk
+study_language=English
