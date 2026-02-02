@@ -1,0 +1,8 @@
+country=Italy 
+city=Bolognia 
+uni_abbreviation=UNIBO
+uni_name=University of Bolognia 
+requirements=Secondary school diploma valid for Italian university admission/IELTS 6.0-6.5 orTOEFL iBT 80+
+study_field=European Law 
+link=https://corsi.unibo.it/1cycle/EuropeanLegalStudies
+study_language=English/Italian 
