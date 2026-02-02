@@ -1,0 +1,8 @@
+country=Belgium
+city=Leuven
+uni_abbreviation=KU Leuven
+uni_name=KU Leuven
+requirements=IB Diploma, 30–34 IB points, language: English-taught programmes-IELTS 6.5–7.0 or English A/B, Dutch-taught programmes-Dutch certificate; HL recommended: History, Geography; SL: History, Environmental Systems
+study_field=Archaeology / Heritage Studies
+link=https://www.kuleuven.be/english/education
+study_language=English / Dutch
