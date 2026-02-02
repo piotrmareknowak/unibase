@@ -1,0 +1,8 @@
+country=Germany
+city=Bad Honnef
+uni_abbreviation=IU
+uni_name=International University of Applied Sciences
+requirements=bachelor degree in Computer Science, IELTS 6.5
+study_field=cybersecurity
+link=https://www.iu.org/
+study_language=English
