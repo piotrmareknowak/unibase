@@ -1,0 +1,9 @@
+country=England 
+city=London 
+uni_abbreviation=UOW
+uni_name=University of Westminster 
+requirements=30+ points/ ALevel BBC 112 UCAS tariff points 
+TLevels 112UCAS tariff points
+study_field=European Law 
+link= https://www.westminster.ac.uk/law-courses/2026-27/september/full-time/european-legal-studies-llb-honours
+study_language=English 
