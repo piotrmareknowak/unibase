@@ -1,0 +1,8 @@
+country=Poland
+city=Poznań
+uni_abbreviation=PP
+uni_name=Politechnika Poznańska
+requirements=N/A
+study_field=cybersecurity
+link=https://put.poznan.pl/
+study_language=Polish
