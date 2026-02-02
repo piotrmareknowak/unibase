@@ -1,0 +1,8 @@
+country=Germany 
+city=Berlin 
+uni_abbreviation=HU Berlin 
+uni_name=Humboldt University of Berlin
+requirements=IELTS 6.5–7.0 orTOEFL iBT 90+
+study_field=European Law 
+link=https://www.rewi.hu-berlin.de/en/lf/llm-
+study_language=English 
