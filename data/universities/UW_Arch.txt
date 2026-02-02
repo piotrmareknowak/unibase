@@ -1,0 +1,10 @@
+country=Poland
+city=Warsaw
+uni_abbreviation=UW
+uni_name=University of Warsaw – Faculty of Archaeology
+requirements=IB Diploma, 28–32 IB points, language: for English-taught programme-English B HL/SL or IELTS 6.5,
+HL recommended: History, Geography, Biology
+SL accepted: History, Geography, Environmental Systems
+study_field=Archaeology (BA)
+link=https://www.archeologia.uw.edu.pl/en/admission/
+study_language=Polish / English
