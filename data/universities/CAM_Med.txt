@@ -1,0 +1,8 @@
+country=United Kingdom
+city=Cambridge
+uni_abbreviation=Cambridge
+uni_name=University of Cambridge - Medicine MB BChir
+requirements=IB Diploma with 41-42 points, Higher Level subjects: 7, 7, 6, Chemistry HL required, One science HL required (Biology/Physics/Mathematics), Admissions test required
+study_field=Medicine
+link=https://www.cam.ac.uk
+study_language=English
