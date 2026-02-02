@@ -1,0 +1,8 @@
+country=Spain
+city=Barcelona
+uni_abbreviation=UB
+uni_name=Universitat de Barcelona - Facultad de Medicina
+requirements=IB Diploma accepted with UNEDasiss accreditation (converts IB to Spanish 0-10 scale), Very high nota de corte (cutoff score) typically 12.5+/14 for Medicine, Strong background in Biology and Chemistry required, May require PCE exams (Pruebas de Competencias EspecÃficas) depending on IB subjects taken
+study_field=Medicine
+link=https://www.ub.edu
+study_language=Spanish
