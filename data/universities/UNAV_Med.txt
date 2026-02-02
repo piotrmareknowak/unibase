@@ -1,0 +1,8 @@
+country=Spain
+city=Pamplona
+uni_abbreviation=UNAV
+uni_name=Universidad de Navarra - Facultad de Medicina
+requirements=IB Diploma with minimum predictive score of 37 points, Higher Level subjects: Grade 6 in Biology HL, Grade 6 in Chemistry HL, Personal interview with Admissions Service required
+study_field=Medicine
+link=https://www.unav.edu
+study_language=Spanish (International Program available in English with additional English requirements)
