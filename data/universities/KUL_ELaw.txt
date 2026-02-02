@@ -1,0 +1,8 @@
+country=Belgium 
+city=Leuven
+uni_abbreviation=KU Leuven
+uni_name=KU Leuven 
+requirements=Bachelor’s degree in Law (LL.B. or equivalent)IELTS 6.5–7.0 or TOEFL iBT 90+
+study_field=Law 
+link=https://www.law.kuleuven.be/llm/llm-european-law
+study_language=English 
