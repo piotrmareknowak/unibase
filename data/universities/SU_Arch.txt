@@ -1,0 +1,8 @@
+country=Italy
+city=Rome
+uni_abbreviation=SU
+uni_name=Sapienza University of Rome
+requirements=IB Diploma, 24–30 IB points, language: Italian B2 or English B2 (depending on programme); HL recommended: History, Classical Studies; SL: History
+study_field=Archaeology / Classical & Mediterranean Archaeology
+link=https://www.uniroma1.it/en/pagina/archeologia
+study_language=Italian / English
