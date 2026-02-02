@@ -4,5 +4,5 @@ uni_abbreviation=LLM
 uni_name=Universite Paris 2 Panthenon Assas 
 requirements=Bac4+ 240ETCS/IELTS>7.0
 study_field=European Law
-link= https://pl.educations.com/institutions/panth%C3%A9on-assas/llm-w-prawie-europejskim
+link=https://pl.educations.com/institutions/panth%C3%A9on-assas/llm-w-prawie-europejskim
 study_language=French/English 
