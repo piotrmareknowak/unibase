@@ -1,0 +1,10 @@
+country=United States
+city=Berkeley, California
+uni_abbreviation=UCB
+uni_name=University of California, Berkeley
+requirements=IB Diploma, 36–40 IB points (competitive), language: IELTS 7.0 / TOEFL 100,
+HL strongly recomended: History, Geography, Biology
+SL: History, Environmental Systems
+study_field=Archaeology / Anthropology
+link=https://ahma.berkeley.edu/
+study_language=English
