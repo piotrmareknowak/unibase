@@ -1,0 +1,8 @@
+country=Australia
+city=Melbourne
+uni_abbreviation=MIT
+uni_name=Melbourne Institute of Technology
+requirements=IELTS 6.0
+study_field=cybersecurity
+link=https://www.mit.edu.au/
+study_language=English
