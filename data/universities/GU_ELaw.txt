@@ -1,0 +1,9 @@
+country=USA
+city=Washington DC
+uni_abbreviation=GU
+uni_name=Georgetown University 
+requirements=TOEFL iBT 100+ or IELTS 7.0
+First degree in Law (LL.B., JD, or equivalent from outside the USA)
+study_field=European Law 
+link=https://www.law.georgetown.edu/academics/degree-programs/ll-m-in-european-union-law/
+study_language=English 
