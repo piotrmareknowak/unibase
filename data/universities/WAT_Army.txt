@@ -1,0 +1,8 @@
+country=Poland
+city=Warszawa
+uni_abbrieviation=WAT
+uni_name=Wojskowa Akademia Techniczna
+requirements=Graduated highschool, English confirmed on a high school diploma, fitness for military service,
+study_field=Technic Officer School
+link=https://www.wojsko-polskie.pl/wat/kierunki-studiow-wojskowych/
+study_language=Polish
