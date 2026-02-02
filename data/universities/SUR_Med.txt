@@ -1,0 +1,8 @@
+country=Italy
+city=Rome
+uni_abbreviation=Sapienza
+uni_name=Sapienza University of Rome - Medicine and Surgery (Programme F)
+requirements=IB Diploma with minimum 24 points in six subjects (12 points must be at Higher Level), IMAT test required (International Medical Admissions Test), 12 years of total education completed, High school diploma with certain subjects completed, Italian language not required for matriculation but beneficial for clinical rotations
+study_field=Medicine
+link=https://www.uniroma1.it
+study_language=English
