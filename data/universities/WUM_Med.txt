@@ -1,0 +1,8 @@
+country=Poland
+city=Warsaw
+uni_abbreviation=WUM
+uni_name=Medical University of Warsaw - English Division
+requirements=IB Diploma accepted, Biology HL with passing grade (equivalent to extended level), Chemistry HL with passing grade (equivalent to extended level), Physics or Mathematics with passing grade (standard or extended level), Competency test required (or exemption with BMAT/MCAT/GAMSAT/UCAT), English proficiency: IELTS Academic minimum 6.5 or TOEFL iBT minimum 87 points
+study_field=Medicine
+link=https://ed.wum.edu.pl
+study_language=English
