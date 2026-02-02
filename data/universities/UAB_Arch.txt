@@ -1,0 +1,8 @@
+country=Spain
+city=Barcelona
+uni_abbreviation=UAB
+uni_name=Universitat Autònoma de Barcelona
+requirements=IB Diploma, 28–32 IB points, language: Spanish or Catalan B2, English track → IELTS 6.5; HL recommended: History, Geography; SL: History
+study_field=Archaeology
+link=https://www.uab.cat/web/estudiar/listado-de-grados/grado-en-arqueologia-1345467898914.html
+study_language=Spanish / Catalan / English
