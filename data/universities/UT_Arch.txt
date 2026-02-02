@@ -1,0 +1,8 @@
+country=Canada
+city=Toronto
+uni_abbreviation=UofT
+uni_name=University of Toronto
+requirements=IB Diploma, 32–36 IB points, language: English A or IELTS 6.5–7.0; HL recommended: History, Geography, Biology; SL: History, Environmental Systems
+study_field=Archaeology (BA)
+link=https://future.utoronto.ca/program/archaeology
+study_language=English
