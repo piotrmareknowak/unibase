@@ -1,0 +1,8 @@
+country=Italy
+city=Milan
+uni_abbreviation=UNIMI
+uni_name=UniversitÃ degli Studi di Milano - International Medical School
+requirements=IB Diploma with minimum 24 points in six subjects (12 points must be at Higher Level), IMAT test required (International Medical Admissions Test), Strong background in Biology and Chemistry at high school level, Italian language not required for matriculation but good level required for clinical activities from third year
+study_field=Medicine
+link=https://www.unimi.it
+study_language=English
