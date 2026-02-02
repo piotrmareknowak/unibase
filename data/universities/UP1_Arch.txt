@@ -1,0 +1,8 @@
+country=France
+city=Paris
+uni_abbreviation=UP1
+uni_name=Université Paris 1 Panthéon-Sorbonne
+requirements=IB Diploma, 30–34 IB points, language: French B2 required, C1 strongly recommended; HL strongly recomended: History; SL: Geography, Biology
+study_field=Archaeology
+link=https://www.pantheonsorbonne.fr/en/formation/archaeology
+study_language=French
