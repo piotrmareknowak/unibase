@@ -1,0 +1,8 @@
+country=Netherlands 
+city=Maastricht
+uni_abbreviation=UM
+uni_name=Maastricht University
+requirements=Secondary school diploma equivalent to Dutch VWO/IELTS 6.5 (no band below 6.0) or TOEFL iBT 90
+study_field=European Law
+link=https://www.maastrichtuniversity.nl/education/bachelor/bachelor-european-law-school
+study_language=English 
