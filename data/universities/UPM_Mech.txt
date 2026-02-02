@@ -1,0 +1,8 @@
+country=Spain
+city=Madrid
+uni_abbreviation=UPM
+uni_name=Universidad Politécnica de Madrid
+requirements=IB Diploma recognized for admission, Minimum 24 points for admission consideration, Mathematics and Physics subjects recommended, Competitive scores typically 28-34 points, Spanish language proficiency required for most programs or English for international programs, Technical background in mathematics and physics essential
+study_field=Mechanical Engineering
+link=https://www.upm.es
+study_language=Spanish, English (selected programs)

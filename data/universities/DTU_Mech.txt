@@ -1,0 +1,8 @@
+country=Denmark
+city=Copenhagen
+uni_abbreviation=DTU
+uni_name=Technical University of Denmark
+requirements=IB Diploma required, Minimum 33 IB points recommended for admission, Mathematics A level equivalent required, Physics B or equivalent required, Grade point average equivalent to Danish 6.0 or higher, Very strong working knowledge of mathematics and mechanics prerequisite, Practical component requirement (minimum 15% practical instruction)
+study_field=Mechanical Engineering
+link=https://www.dtu.dk
+study_language=Danish, English (selected programs)

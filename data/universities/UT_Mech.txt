@@ -1,0 +1,8 @@
+country=Canada
+city=Toronto
+uni_abbreviation=UofT
+uni_name=University of Toronto
+requirements=Complete IB Diploma required (IB Certificate not sufficient), English SL or HL required with minimum grade 4, Mathematics HL or SL required for engineering programs, Physics HL or SL required, Minimum competitive score typically 38-42 points, Calculus prerequisite required
+study_field=Mechanical Engineering
+link=https://www.utoronto.ca
+study_language=English

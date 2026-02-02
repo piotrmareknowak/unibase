@@ -1,0 +1,8 @@
+country=Poland
+city=Warsaw
+uni_abbreviation=PW
+uni_name=Warsaw University of Technology
+requirements=IB Diploma recognized for admission, No legalization/apostille required for IB certificate, Competitive scores typically 32-37 points, Mathematics and Physics subjects recommended, English language proficiency (B2 level equivalent) required for international programs, Polish or English language programs available, Secondary education diploma or equivalent required
+study_field=Mechanical Engineering
+link=https://www.pw.edu.pl
+study_language=Polish, English (selected programs)

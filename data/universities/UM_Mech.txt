@@ -1,0 +1,8 @@
+country=Italy
+city=Milan
+uni_abbreviation=Polimi
+uni_name=Politecnico di Milano
+requirements=IB Diploma recognized for admission, Minimum 70 out of 100 GPA required, IB diploma with grades and transcripts required for application, Admission test (TOL) required for bachelor programs, Secondary school diploma or equivalent required, Minimum 30 IB points typically required, Italian or English language proficiency depending on program
+study_field=Mechanical Engineering
+link=https://www.polimi.it
+study_language=Italian, English (selected programs)

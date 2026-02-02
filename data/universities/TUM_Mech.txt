@@ -1,0 +1,8 @@
+country=Germany
+city=Munich
+uni_abbreviation=TUM
+uni_name=Technical University of Munich
+requirements=IB Diploma with minimum 30 points, Mathematics HL required for mechanical engineering, Physics HL required, Preliminary Documentation (VPD) or valid notification from Office for Certificate Recognition (ZAST) required, Minimum 12 years of full-time education, Competitive scores typically 34-38 points, German language proficiency required or English for international programs
+study_field=Mechanical Engineering
+link=https://www.tum.de
+study_language=German, English (selected programs)

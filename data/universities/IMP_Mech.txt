@@ -1,0 +1,8 @@
+country=United Kingdom
+city=London
+uni_abbreviation=Imperial
+uni_name=Imperial College London
+requirements=IB Diploma with minimum 40 points overall, Mathematics HL with grade 6 minimum (Analysis and Approaches or Applications and Interpretation accepted), Physics HL with grade 6 minimum, Typical competitive score 40-42 points, 80% overall achievement, 80% in Mathematics, 80% in Physics
+study_field=Mechanical Engineering
+link=https://www.imperial.ac.uk
+study_language=English

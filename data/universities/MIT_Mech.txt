@@ -1,0 +1,8 @@
+country=United States of America
+city=Cambridge
+uni_abbreviation=MIT
+uni_name=Massachusetts Institute of Technology
+requirements=IB Diploma with score of 40-45 points (competitive range), Mathematics HL with score of 7 for course credit, Physics HL with score of 7 for course credit, Strong performance in science and mathematics subjects, Self-report IB scores in application
+study_field=Mechanical Engineering
+link=https://www.mit.edu
+study_language=English

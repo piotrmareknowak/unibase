@@ -1,0 +1,8 @@
+country=France
+city=Lyon
+uni_abbreviation=INSA
+uni_name=Institut National des Sciences Appliquées (INSA) Lyon
+requirements=IB Diploma required for international students, Minimum 32 points required, Mathematics HL with minimum grade 5, Physics HL with minimum grade 5, Good level in Mathematics and Physics prerequisite, French language proficiency B2 level or English for international programs, Strong background in applied sciences
+study_field=Mechanical Engineering
+link=https://www.insa-lyon.fr
+study_language=French, English (International Bachelor)

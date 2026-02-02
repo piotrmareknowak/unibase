@@ -1,0 +1,8 @@
+country=Netherlands
+city=Delft
+uni_abbreviation=TU Delft
+uni_name=Delft University of Technology
+requirements=IB Diploma required (passing is essential), Mathematics Analysis and Approaches HL required for all programs, Physics HL required for mechanical engineering, Minimum 30 IB points recommended for competitive admission, Dutch language requirements may apply for certain programs, Strong performance in mathematics and physics subjects essential
+study_field=Mechanical Engineering
+link=https://www.tudelft.nl
+study_language=Dutch, English (many programs)
