@@ -1,0 +1,8 @@
+country=Poland
+city=Gdańsk
+uni_abbrieviation=AMW
+uni_name=Akademia Marynanki Wojennej
+requirements=gGraduated highschool, English confirmed on a high school diploma, extended math and physics, fitness for military service
+study_field=Marine Officer School
+link=https://www.wojsko-polskie.pl/amw/
+study_language=Polish
