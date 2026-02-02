@@ -1,0 +1,8 @@
+country=Canada
+city=Guelph
+uni_abbreviation=UG
+uni_name=University of Guelph
+requirements=IELTS 6.0, bachelor degree in Computer Science,
+study_field=cybersecurity
+link=https://www.uoguelph.ca/
+study_language=English
