@@ -1,0 +1,8 @@
+country=Poland
+city=Kraków
+uni_abbreviation=UJ
+uni_name=Jagiellonian University - School of Medicine in English
+requirements=IB Diploma or equivalent secondary education diploma, Biology and Chemistry courses completed during secondary education (confirmed by certificate or diploma entry), English proficiency: IELTS minimum 6.5 or TOEFL iBT minimum 87 points (or proof of English-taught secondary education), Entrance examination in Biology and Chemistry conducted in English
+study_field=Medicine
+link=https://medschool.uj.edu.pl
+study_language=English
