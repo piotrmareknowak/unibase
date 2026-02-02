@@ -1,0 +1,8 @@
+country=Great Britain
+city=London
+uni_abbreviation=UL
+uni_name=University of London
+requirements=IELTS 6.5, bachelor degree in Computer Science
+study_field=cybersecurity
+link=https://www.london.ac.uk/
+study_language=English
