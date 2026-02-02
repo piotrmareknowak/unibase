@@ -1,0 +1,8 @@
+country=Canda
+city=Monteral 
+uni_abbreviation=McGill 
+uni_name=McGill university 
+requirements= First degree in Law (LL.B., JD, or equivalent)/IELTS 7.0 or TOEFL iBT 100
+study_field=European Law 
+link= https://www.mcgill.ca/law/graduate-programs/llm
+study_language=English/French
