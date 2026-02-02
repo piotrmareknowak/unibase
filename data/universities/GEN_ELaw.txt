@@ -1,0 +1,8 @@
+country=Spain 
+city=Madrid 
+uni_abbreviation=GEN
+uni_name=Grado en Drecho 
+requirements=IB 35-38 Points/C1 Level spanish/
+study_field=European Law
+link=https://estudiar.unir.net/es/es-gen-gr-gene-grados-espanoles-europa/?utm_source=GOOGLE-BUSQ&utm_medium=Search&utm_campaign=UNIREU_EU_Mix_X_X_G_X_X_NOMAR_X_LWEB_GLOB_Mix_AREA-VERT_AO_GOOGLE-BUS_BUS_GEN_X_ESPANOLESPOREUROPA&utm_content=ES_Mix_X_X_G_X_X_NOMAR_BUSQ_Grado_TXT_CPC_GOOGLE-BUS_MIX_X_X_X&bi_campaignid=19752337843&bi_adgroupid=150122298441&gad_source=1&gad_campaignid=19752337843&gbraid=0AAAAADvi6Q8Ahyq9pP8xln7DitlMsm8s2&gclid=Cj0KCQiAkPzLBhD4ARIsAGfah8iwh27NAgy94pXWkhsyB9cfQo5BEIFWL87JSTMO5Tg0kpwyYpCWcMoaAgD-EALw_wcB
+study_language=Spanish/English 
