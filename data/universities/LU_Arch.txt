@@ -1,0 +1,8 @@
+country=Sweden
+city=Lund
+uni_abbreviation=LU
+uni_name=Lund University
+requirements=IB Diploma, 28–30 IB points, language: English A or B (SL/HL) or IELTS 6.5; HL recomended: History, Anthropology, Biology; SL: History, Geography
+study_field=Archaeology
+link=https://www.lunduniversity.lu.se/lubas/i-uoh-lu-HAAAH
+study_language=English
