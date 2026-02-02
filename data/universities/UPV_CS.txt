@@ -1,0 +1,8 @@
+country=Spain
+city=Valencia
+uni_abbreviation=UPV
+uni_name=Technical University of Valencia
+requirements=Spanish level certificate(B2), bachelor degree in Computer Science
+study_field=cybersecurity
+link=https://www.upv.es/
+study_language=Spanish
