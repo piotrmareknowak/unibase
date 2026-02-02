@@ -1,0 +1,8 @@
+country=Poland
+city=Dęblin
+uni_abbrieviation=LAW
+uni_name=Lotnicza Akademia Wojskowa
+requirements=Graduated highschool, English confirmed on a high school diploma, extended math and physics, fitness for military service
+study_field=Aviation Officer School
+link=https://www.wojsko-polskie.pl/law/
+study_language=Polish
