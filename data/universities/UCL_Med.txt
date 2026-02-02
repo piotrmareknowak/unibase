@@ -1,0 +1,8 @@
+country=United Kingdom
+city=London
+uni_abbreviation=UCL
+uni_name=University College London - Medicine MBBS BSc
+requirements=IB Diploma with minimum 34 points overall (competitive offers higher), Higher Level subjects: Combined score of 16+ in three HL subjects with no grade lower than 5, Biology and Chemistry required at HL, UCAT test required
+study_field=Medicine
+link=https://www.ucl.ac.uk
+study_language=English
