@@ -1,0 +1,8 @@
+country=United Kingdom
+city=London
+uni_abbreviation=Imperial
+uni_name=Imperial College London - Medicine MBBS
+requirements=IB Diploma with 39 points overall, Higher Level subjects: Grade 7 and 6 in Biology and Chemistry (any order), Grade 6 in third HL subject, UCAT test required
+study_field=Medicine
+link=https://www.imperial.ac.uk
+study_language=English
