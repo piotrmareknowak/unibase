@@ -1,0 +1,8 @@
+country=United Kingdom
+city=Cambridge
+uni_abbreviation=CAM
+uni_name=University of Cambridge
+requirements=IB Diploma, 40–42 IB points, HL requirement: 776 at HL, language: English A usually sufficient, sometimes IELTS 7.5; HL required: History; SL: Geography or Biology
+study_field=Archaeology (BA Hons)
+link=https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons
+study_language=English
