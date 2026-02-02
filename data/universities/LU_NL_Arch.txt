@@ -1,0 +1,8 @@
+country=Netherlands
+city=Leiden
+uni_abbreviation=LU
+uni_name=Leiden University
+requirements=IB Diploma, 30–34 IB points, language: English A/B or IELTS 6.5; HL recommended: History, Geography, Biology; SL: History, Environmental Systems
+study_field=Archaeology
+link=https://www.universiteitleiden.nl/en/education/study-programmes/bachelor/archaeology
+study_language=English
