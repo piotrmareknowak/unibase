@@ -1,0 +1,8 @@
+country=Poland
+city=Poznań
+uni_abbreviation=UMP
+uni_name=Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu
+requirements=IB Diploma accepted, Biology HL with passing grade (equivalent to extended level), Chemistry HL with passing grade (equivalent to extended level) or Physics with passing grade (standard or extended level), Competency test required
+study_field=Medicine
+link=https://www.ump.edu.pl
+study_language=Polish
